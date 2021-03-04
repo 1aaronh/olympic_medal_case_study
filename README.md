@@ -1,1 +1,0 @@
-# olympic_medal_case_study
